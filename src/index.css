@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #141225;
+  color: #eeedfe;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+input {
+  font-family: inherit;
+}
